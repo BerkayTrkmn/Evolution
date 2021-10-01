@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: a297eebedb13a3743a3ed4425b791dfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5348596954257333995
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_0
+  - first:
+      213: 1246472047823653493
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_1
+  - first:
+      213: -4122947108256682078
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_2
+  - first:
+      213: 4370708998884592801
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_3
+  - first:
+      213: 8373278183827099644
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_4
+  - first:
+      213: 9128672859377171264
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_5
+  - first:
+      213: 6707056083353366577
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_6
+  - first:
+      213: -7178757932346004064
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_7
+  - first:
+      213: -1431870044646886058
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_8
+  - first:
+      213: -3380159858312097157
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_9
+  - first:
+      213: -5488283820261309017
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_10
+  - first:
+      213: 7215217693729283962
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_11
+  - first:
+      213: 746310566038987576
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_12
+  - first:
+      213: -6031740745243765931
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_13
+  - first:
+      213: 4386583965368256703
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_14
+  - first:
+      213: 7225548272021715799
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_15
+  - first:
+      213: 1563472299519207754
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_16
+  - first:
+      213: 6181016138426558050
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_17
+  - first:
+      213: 3260373691555168419
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_18
+  - first:
+      213: -3742122766701246385
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_19
+  - first:
+      213: 7635590933447401766
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_20
+  - first:
+      213: 6650902423824976563
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_21
+  - first:
+      213: -7716777925976536460
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_22
+  - first:
+      213: -6226073964617824692
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_23
+  - first:
+      213: 1886807747778023671
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_24
+  - first:
+      213: -146830735442025879
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_25
+  - first:
+      213: -1459053962012290375
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_26
+  - first:
+      213: -1786143975399508026
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_27
+  - first:
+      213: 4438190038934234546
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_28
+  - first:
+      213: -2893278002092270003
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_29
+  - first:
+      213: -6789097522303436131
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_30
+  - first:
+      213: 4133682581492265938
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_31
+  - first:
+      213: -5665334385637047283
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_32
+  - first:
+      213: -840361360424640202
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_33
+  - first:
+      213: -5129385760849046097
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_34
+  - first:
+      213: 5291407582037103224
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_35
+  - first:
+      213: 6371707682902877440
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_36
+  - first:
+      213: -3841845906944404162
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_37
+  - first:
+      213: -6820180829128258962
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_38
+  - first:
+      213: 3754710181429961350
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_39
+  - first:
+      213: 3773110875498243832
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_40
+  - first:
+      213: 8811796716359682781
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_41
+  - first:
+      213: 1776850237007232043
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_42
+  - first:
+      213: 2083327574389387585
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_43
+  - first:
+      213: 2720050313986041352
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_44
+  - first:
+      213: 1049705225159450014
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_45
+  - first:
+      213: -4307333904044032178
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_46
+  - first:
+      213: 5317709706518189960
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_47
+  - first:
+      213: 8862220232506321494
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_48
+  - first:
+      213: 334108631508240666
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_49
+  - first:
+      213: -7282493610054321416
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_50
+  - first:
+      213: 6267513760478992339
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_51
+  - first:
+      213: 4045687911094976189
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_52
+  - first:
+      213: -7175637912941480940
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_53
+  - first:
+      213: 7463499312905330064
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_54
+  - first:
+      213: -1480491852026185193
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_55
+  - first:
+      213: 4894126687922254806
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_56
+  - first:
+      213: -8206891249924082914
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_57
+  - first:
+      213: 8336932548329784737
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_58
+  - first:
+      213: 596226539082343343
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_59
+  - first:
+      213: -7175379219817936974
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_60
+  - first:
+      213: 259657585589719392
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_61
+  - first:
+      213: -4651127236498465636
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_62
+  - first:
+      213: 4721287422285990891
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_63
+  - first:
+      213: -5312826729818058393
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_64
+  - first:
+      213: -1602929565307941552
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_65
+  - first:
+      213: 5376509035444370453
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_66
+  - first:
+      213: 7116314552065904061
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_67
+  - first:
+      213: -1641003578233819213
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_68
+  - first:
+      213: 4191705895835603425
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_69
+  - first:
+      213: -5819639114934567268
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_70
+  - first:
+      213: 3345949591053054260
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_71
+  - first:
+      213: 2614924625030744062
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_72
+  - first:
+      213: 6303123052965469984
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_73
+  - first:
+      213: 5057901951276119892
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_74
+  - first:
+      213: -1589975355405050366
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_75
+  - first:
+      213: 3293520679935152578
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_76
+  - first:
+      213: 8507338320329802224
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_77
+  - first:
+      213: 3228429535870048974
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_78
+  - first:
+      213: -6743482573022073994
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_79
+  - first:
+      213: 815144864422597726
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_80
+  - first:
+      213: -7453580947521749657
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_81
+  - first:
+      213: -919515553307305753
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_82
+  - first:
+      213: -2214817470194512857
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_83
+  - first:
+      213: 8334881208878556574
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_84
+  - first:
+      213: 4667731147884641235
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_85
+  - first:
+      213: 7910829187082534683
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_86
+  - first:
+      213: 9097928221121683531
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_87
+  - first:
+      213: 550099775690566704
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_88
+  - first:
+      213: 375583021863890247
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_89
+  - first:
+      213: -6153091235216100751
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_90
+  - first:
+      213: -2349912858572999522
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_91
+  - first:
+      213: -6132070919038103291
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_92
+  - first:
+      213: 5314713940045050009
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_93
+  - first:
+      213: -7295457273473485359
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_94
+  - first:
+      213: 3366564998329915897
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_95
+  - first:
+      213: 5069778154559498360
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_96
+  - first:
+      213: -426996074161428693
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_97
+  - first:
+      213: -4720696658647143206
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_98
+  - first:
+      213: -3760677108760831670
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_99
+  - first:
+      213: -4070520754398582240
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_100
+  - first:
+      213: -8915154489425331504
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_101
+  - first:
+      213: 7191499010010635647
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_102
+  - first:
+      213: -5658492386316059165
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_103
+  - first:
+      213: -5373719933894873261
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_104
+  - first:
+      213: 2307708252161034417
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_105
+  - first:
+      213: -4175969376136458970
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_106
+  - first:
+      213: -1492291388270113718
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_107
+  - first:
+      213: -3770115719648323897
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_108
+  - first:
+      213: -7404786109134295726
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_109
+  - first:
+      213: -1133973439500372083
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_110
+  - first:
+      213: 7888007186302111683
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_111
+  - first:
+      213: -9095565817246077144
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_112
+  - first:
+      213: -3009159376622690310
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_113
+  - first:
+      213: 8682255867904261175
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_114
+  - first:
+      213: 7616055610465237813
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_115
+  - first:
+      213: -786349010646588337
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_116
+  - first:
+      213: 510408186454650122
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_117
+  - first:
+      213: -6769888431428368338
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_118
+  - first:
+      213: 4154423171136943417
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_119
+  - first:
+      213: 7931129376820137711
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_120
+  - first:
+      213: 8082423001402544731
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_121
+  - first:
+      213: -7485136417735016158
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_122
+  - first:
+      213: 3456509203654198248
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_123
+  - first:
+      213: -4472865492573567729
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_124
+  - first:
+      213: -6632936069652032271
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_125
+  - first:
+      213: 5460978750218570440
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_126
+  - first:
+      213: -8370562157265263537
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_127
+  - first:
+      213: -8216449555073208010
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_128
+  - first:
+      213: -6348841923197731712
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_129
+  - first:
+      213: 170537218741705079
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_130
+  - first:
+      213: -3643706337926569042
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_131
+  - first:
+      213: -860514557517405921
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_132
+  - first:
+      213: 7726720671910594779
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_133
+  - first:
+      213: 5415440212695794838
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_134
+  - first:
+      213: -1407436518814652898
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_135
+  - first:
+      213: -4780750502208677341
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_136
+  - first:
+      213: 5023375590860879145
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_137
+  - first:
+      213: -2523352990956299891
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_138
+  - first:
+      213: -1013623585536153838
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_139
+  - first:
+      213: 3850761291595125878
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_140
+  - first:
+      213: 8668028723071507997
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_141
+  - first:
+      213: 3504704332034848687
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_142
+  - first:
+      213: -4991864778948872484
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_143
+  - first:
+      213: -1415770385889077378
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_144
+  - first:
+      213: -8858886352540276223
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_145
+  - first:
+      213: -2199750895809138937
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_146
+  - first:
+      213: 2626797048580936411
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_147
+  - first:
+      213: 2534099023074038487
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_148
+  - first:
+      213: -3894611560320637478
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_149
+  - first:
+      213: -5246012538323813818
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_150
+  - first:
+      213: -145872285842532956
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_151
+  - first:
+      213: 1047103579618467718
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_152
+  - first:
+      213: 612841128752929061
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_153
+  - first:
+      213: -2920063898333425395
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_154
+  - first:
+      213: -3762527352647110786
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_155
+  - first:
+      213: -4824888729483289045
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_156
+  - first:
+      213: -7842637645253678186
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_157
+  - first:
+      213: 7273314828510024458
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_158
+  - first:
+      213: -1090476175348477125
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_159
+  - first:
+      213: 8382678008937730155
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_160
+  - first:
+      213: -4477979594965858857
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_161
+  - first:
+      213: 8056688339410379506
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_162
+  - first:
+      213: -2097228877041369426
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_163
+  - first:
+      213: -2920952065370790328
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_164
+  - first:
+      213: 7753464954551353196
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_165
+  - first:
+      213: 5314427670823990525
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_166
+  - first:
+      213: 1483399092575678799
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_167
+  - first:
+      213: -7303187459613916502
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_168
+  - first:
+      213: 4573068233428502890
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_169
+  - first:
+      213: 788913553204594675
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_170
+  - first:
+      213: -2815084121201373549
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_171
+  - first:
+      213: 5313475463862995761
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_172
+  - first:
+      213: -1367891036546826953
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_173
+  - first:
+      213: 5263825070443900195
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_174
+  - first:
+      213: -681316155799869021
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_175
+  - first:
+      213: -7100257726075078692
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_176
+  - first:
+      213: -924201303418760400
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_177
+  - first:
+      213: 5625725619880934770
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_178
+  - first:
+      213: -2600646980696250088
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_179
+  - first:
+      213: 4981045051502570563
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_180
+  - first:
+      213: 5482087533516733960
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_181
+  - first:
+      213: 983203196967945436
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_182
+  - first:
+      213: -8134341191073920815
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_183
+  - first:
+      213: 8556335647657415469
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_184
+  - first:
+      213: -7646524096419816634
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_185
+  - first:
+      213: 2613750605814260865
+    second: SeekPng.com_fire-sprite-sheet-png_3575028_186
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51161ce7867f5c5b0800000000000000
+      internalID: -5348596954257333995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 336
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a8bf039bb5c4110800000000000000
+      internalID: 1246472047823653493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe2a8037958c6c0800000000000000
+      internalID: -4122947108256682078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8e1f6da0e7ac30800000000000000
+      internalID: 4370708998884592801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 336
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffca88052cd33470800000000000000
+      internalID: 8373278183827099644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bfced899f8fae70800000000000000
+      internalID: 9128672859377171264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13076e8e8ff341d50800000000000000
+      internalID: 6707056083353366577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 336
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adaff9f1bdef5c90800000000000000
+      internalID: -7178757932346004064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655bc40e7c9f02ce0800000000000000
+      internalID: -1431870044646886058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d54984824711d0800000000000000
+      internalID: -3380159858312097157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 336
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a50dc291f2b5d3b0800000000000000
+      internalID: -5488283820261309017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fd8dbb34a912460800000000000000
+      internalID: 7215217693729283962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833efd4718d6b5a00800000000000000
+      internalID: 746310566038987576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553de7eefb3fa4ca0800000000000000
+      internalID: -6031740745243765931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8033910e640ec30800000000000000
+      internalID: 4386583965368256703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bba4deedd464460800000000000000
+      internalID: 7225548272021715799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496105d5c192b510800000000000000
+      internalID: 1563472299519207754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662fd1fd6167c550800000000000000
+      internalID: 6181016138426558050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0cc28299c2f3d20800000000000000
+      internalID: 3260373691555168419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48ced89b2f411cc0800000000000000
+      internalID: -3742122766701246385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216356bf7117f960800000000000000
+      internalID: 7635590933447401766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4fd73480cc4c50800000000000000
+      internalID: 6650902423824976563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac79f8c5f78e490800000000000000
+      internalID: -7716777925976536460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4685a167ba8899a0800000000000000
+      internalID: -6226073964617824692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f093cd56a94f2a10800000000000000
+      internalID: 1886807747778023671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 240
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9626edb593a56fdf0800000000000000
+      internalID: -146830735442025879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29126e62660cbe0800000000000000
+      internalID: -1459053962012290375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7bb9c84875637e0800000000000000
+      internalID: -1786143975399508026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 240
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52a5c635e979d30800000000000000
+      internalID: 4438190038934234546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e96d08cf209d7d0800000000000000
+      internalID: -2893278002092270003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7e9d06c748c1a0800000000000000
+      internalID: -6789097522303436131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 240
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f01c186acd5930800000000000000
+      internalID: 4133682581492265938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044c4a7460b061b0800000000000000
+      internalID: -5665334385637047283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631ecec8bcf6654f0800000000000000
+      internalID: -840361360424640202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_34
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 240
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa555a0c3d2c0d8b0800000000000000
+      internalID: -5129385760849046097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 240
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8725129292bde6940800000000000000
+      internalID: 5291407582037103224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005ad0cf06adc6850800000000000000
+      internalID: 6371707682902877440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e355acaa0850faac0800000000000000
+      internalID: -3841845906944404162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a81e7bba9d951a0800000000000000
+      internalID: -6820180829128258962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682eca644096b1430800000000000000
+      internalID: 3754710181429961350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66c38b958cc5430800000000000000
+      internalID: 3773110875498243832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda82973d6ac94a70800000000000000
+      internalID: 8811796716359682781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c72eb50e3a8a810800000000000000
+      internalID: 1776850237007232043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417146146779ec10800000000000000
+      internalID: 2083327574389387585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e350695f8fb520800000000000000
+      internalID: 2720050313986041352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d1088375d419e00800000000000000
+      internalID: 1049705225159450014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_46
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f7570b2a64934c0800000000000000
+      internalID: -4307333904044032178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_47
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d9abbdcc4cc940800000000000000
+      internalID: 5317709706518189960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aa1dfe85eecfa70800000000000000
+      internalID: 8862220232506321494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 144
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c079b70ef2a400800000000000000
+      internalID: 334108631508240666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf8ad55a26fea90800000000000000
+      internalID: -7282493610054321416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71936fe8eaaf650800000000000000
+      internalID: 6267513760478992339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 144
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe78ec58bb252830800000000000000
+      internalID: 4045687911094976189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4143c4a16530b6c90800000000000000
+      internalID: -7175637912941480940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d181fe41da39760800000000000000
+      internalID: 7463499312905330064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 144
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a7e1b218c347be0800000000000000
+      internalID: -1480491852026185193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d37d5fda4e6be340800000000000000
+      internalID: 4894126687922254806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_57
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e137302e3e34b1e80800000000000000
+      internalID: -8206891249924082914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_58
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 144
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c6935bfbb2b370800000000000000
+      internalID: 8336932548329784737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e9abd0e8364800800000000000000
+      internalID: 596226539082343343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7480acd9eeb6c90800000000000000
+      internalID: -7175379219817936974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0619f48c23d7a9300800000000000000
+      internalID: 259657585589719392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5d5fcb60e37fb0800000000000000
+      internalID: -4651127236498465636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb40e765e1658140800000000000000
+      internalID: 4721287422285990891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619effdc3c0546b0800000000000000
+      internalID: -5312826729818058393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d49d39d0041c9e0800000000000000
+      internalID: -1602929565307941552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cf6555b723d9a40800000000000000
+      internalID: 5376509035444370453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc4d9916a32c260800000000000000
+      internalID: 7116314552065904061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6a34a0fbf939e0800000000000000
+      internalID: -1641003578233819213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1113cbd4eeb2a30800000000000000
+      internalID: 4191705895835603425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 96
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e3b590f0d7c3fa0800000000000000
+      internalID: -5819639114934567268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b41bec633f6e20800000000000000
+      internalID: 3345949591053054260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7016d87141a4420800000000000000
+      internalID: 2614924625030744062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f15937501397750800000000000000
+      internalID: 6303123052965469984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457719ad607413640800000000000000
+      internalID: 5057901951276119892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed47b96d54fe9e0800000000000000
+      internalID: -1589975355405050366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c110fbcb9fe4bd20800000000000000
+      internalID: 3293520679935152578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_77
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f18357e023201670800000000000000
+      internalID: 8507338320329802224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecad9e3de8fadcc20800000000000000
+      internalID: 3228429535870048974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 48
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b6bfd04565a62a0800000000000000
+      internalID: -6743482573022073994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_80
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5494647fe9ff4b00800000000000000
+      internalID: 815144864422597726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76db8567e9f8f8890800000000000000
+      internalID: -7453580947521749657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_82
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 48
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8dbafd9793d33f0800000000000000
+      internalID: -919515553307305753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_83
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 48
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0ab6de336341e0800000000000000
+      internalID: -2214817470194512857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e844ac427ba370800000000000000
+      internalID: 8334881208878556574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbb0b09fbc17c040800000000000000
+      internalID: 4667731147884641235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb8d67b39e8cd60800000000000000
+      internalID: 7910829187082534683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_87
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a5f3a385524e70800000000000000
+      internalID: 9097928221121683531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cee09d4d852a700800000000000000
+      internalID: 550099775690566704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d6dd9b4c6563500800000000000000
+      internalID: 375583021863890247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_90
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172ff5e3f14db9aa0800000000000000
+      internalID: -6153091235216100751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_91
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9432ab94be636fd0800000000000000
+      internalID: -2349912858572999522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_92
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5011b3dfcf186eaa0800000000000000
+      internalID: -6132070919038103291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b33f7b28a1c940800000000000000
+      internalID: 5314713940045050009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_94
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b294434451ca90800000000000000
+      internalID: -7295457273473485359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_fire-sprite-sheet-png_3575028_95
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9d7b6770178be20800000000000000
+      internalID: 3366564998329915897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
