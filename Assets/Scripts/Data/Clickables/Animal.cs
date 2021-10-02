@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animal : Clickable {
+public class Animal : Clickable , IMovable {
 
     public float speed;
     Coroutine moveCoroutine;
@@ -38,5 +38,11 @@ public class Animal : Clickable {
 
     public override void Deselected() {
         base.Deselected();
+    }
+
+    public virtual void Move(GameObject objectToMove, Vector3 endPoint) {
+
+        Debug.Log("Animal");
+        MoveTowardsToPoint(objectToMove, endPoint);
     }
 }

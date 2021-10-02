@@ -25,14 +25,19 @@ public abstract class Clickable : MonoBehaviour
         GameObject targetGO = Instantiate(target.gameObject, transform.position, Quaternion.identity, transform);
         Target currentTarget = targetGO.GetComponent<Target>();
         currentTarget.SetTarget(size);
-        //rb.bodyType = RigidbodyType2D.Kinematic;
+      
        
         isSelected = true;
         selectTarget = currentTarget;
     }
     public virtual void Deselected() {
-        Destroy(selectTarget.gameObject);
-       // rb.bodyType = RigidbodyType2D.Dynamic;
+        if (selectTarget == null) return;
+            Destroy(selectTarget.gameObject);
         isSelected = false;
     }
+}
+
+public interface IMovable {
+    void Move(GameObject objectToMove, Vector3 endPoint);
+
 }
