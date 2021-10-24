@@ -23,9 +23,19 @@ public class SpriteMapGenerator : MonoBehaviour
                 for (int i = 0; i < regions.Length; i++) {
                     if (currentHeight <= regions[i].height) {
                         GameObject tileGO = Instantiate(tilePrefab, tileParent);
-                        tileGO.transform.position = new Vector3(x * spriteWidth - halfMapWidth, y * spriteHeight - halfMapHeight, 0f);
+                        tileGO.transform.position = new Vector3(x * spriteWidth - halfMapWidth, y * spriteHeight - halfMapHeight, tileGO.transform.position.z);
                         Tile currentTile = tileGO.GetComponent<Tile>();
-                        currentTile.SetTile(x, y, regions[i].name,regions[i]);
+                        currentTile.SetTile(x, y, regions[i].name,                           
+                               new TerrainType() {
+                                  id = regions[i].id,
+                                  color = regions[i].color,
+                                  height = regions[i].height,
+                                  name = regions[i].name,
+                                  rules = regions[i].rules,
+                                  sprite = regions[i].sprite,
+                                  temperature = regions[i].temperature + Random.Range(-3f, 3f)
+                              }
+                             );
                         tileMap[x, y] = currentTile;
                         break;
                     }

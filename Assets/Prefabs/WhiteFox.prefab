@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4394163711996353545}
   - component: {fileID: 4394163711996353544}
   - component: {fileID: 4394163711996353541}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: WhiteFox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70,8 +70,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1692371551
+  m_SortingLayer: 2
   m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 219922538db8ded40abda133e8ade3a2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -103,7 +103,17 @@ MonoBehaviour:
   isSelected: 0
   size: 0
   selectTarget: {fileID: 0}
+  population: 0
+  feeding: 0
   speed: 1
+  foodfactor: 0
+  optimumTypeIndex: 2
+  optimumTemperature: 15
+  optimumHeight: 0
+  updateInterval: 1
+  deadPrefab: {fileID: 1301212717890541620, guid: 5a227854ec0e7074fb640e2ac5005289,
+    type: 3}
+  animalPrefab: {fileID: 4394163711996353545}
 --- !u!61 &4394163711996353544
 BoxCollider2D:
   m_ObjectHideFlags: 0

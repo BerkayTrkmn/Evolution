@@ -14,8 +14,6 @@ public class PlayerController : MonoBehaviour {
     public bool isMultiSelect = false;
     private void Update() {
         if (Input.GetMouseButtonDown(0)) {
-
-
             Vector2 worldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             RaycastHit2D hit = Physics2D.Raycast(worldPoint, Vector2.zero);
 
@@ -24,9 +22,6 @@ public class PlayerController : MonoBehaviour {
             } else {
                 SingleSelect(hit,worldPoint);
             }
-
-
-
         }
         if (Input.GetMouseButtonDown(1)) {
             AllTargetsCleared(selectedClickables);
@@ -35,6 +30,7 @@ public class PlayerController : MonoBehaviour {
     }
     public void SingleSelect(RaycastHit2D hit, Vector2 worldPoint) {
         Clickable clickable;
+        Tile tile;
         if (hit.collider != null) {
             Debug.Log("Hit " + hit.transform.gameObject.name);
             if (hit.transform.TryGetComponent<Clickable>(out clickable)) {
@@ -47,14 +43,16 @@ public class PlayerController : MonoBehaviour {
                 }
 
                 Debug.Log("Type:" + clickable.GetType());
-            } else {
-                Debug.Log("nopz");
+            } 
+            if (hit.transform.TryGetComponent<Tile>(out tile)) {
+                if (singleSelectClickable != null) {
+                    MoveSingleAnimal(singleSelectClickable, worldPoint);
+                } else {
+                    UIController.instance.CloseStatusWindow(clickable);
+                }
             }
         } else {
-            if (singleSelectClickable != null) {
-                MoveSingleAnimal(singleSelectClickable, worldPoint);
-
-            }
+            
             Debug.Log("No hit");
         }
     }
@@ -117,6 +115,7 @@ public class PlayerController : MonoBehaviour {
 
         clickable.Selected(target);
         singleSelectClickable=clickable;
+        UIController.instance.OpenStatusWindow(clickable);
     }
     public void TargetDeselect(Clickable clickable) {
 
@@ -127,6 +126,7 @@ public class PlayerController : MonoBehaviour {
         if (clickable == null) return;
         clickable.Deselected();
         selectedClickables = null;
+        UIController.instance.CloseStatusWindow(clickable);
     }
     public void AllTargetsCleared(List<Clickable> selectedClickables) {
 

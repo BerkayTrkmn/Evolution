@@ -14,7 +14,10 @@ public class Tile : MonoBehaviour {
         this.x = _x;
         this.y = _y;
         this.tileName = _tileName;
+        //TODO : Height and temperature random values must be balanced
+        //new words feels bad if you can this needs better algorithm
         type = _type;
+       
         bitTile = new int[4];
     }
 
@@ -27,4 +30,16 @@ public class Tile : MonoBehaviour {
 
         return bitTile[0] + bitTile[1] * 2 + bitTile[2] * 4 + bitTile[3] * 8;
     }
+}
+[System.Serializable]
+public class TerrainType {
+
+    public int id;
+    public string name;
+    public float height;
+    public Color color;
+    // leftup, rightup,leftdown,rightDown, up, down, left, right
+    public Sprite sprite;
+    public float temperature;
+    public Sprite[] rules;
 }

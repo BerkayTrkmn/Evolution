@@ -80,17 +80,5 @@ public class MapGenerator : MonoBehaviour {
     }
 }
 
-[System.Serializable]
-public class TerrainType {
-
-    public int id;
-    public string name;
-    public float height;
-    public Color color;
-    // leftup, rightup,leftdown,rightDown, up, down, left, right
-    public Sprite sprite;
-    //
-    public Sprite[] rules;
-}
 
 

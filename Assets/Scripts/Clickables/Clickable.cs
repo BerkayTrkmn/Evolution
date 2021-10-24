@@ -20,7 +20,9 @@ public abstract class Clickable : MonoBehaviour
     public TargetSize size;
     public Target selectTarget;
 
+    public abstract void UpdateClickable();
 
+       
     public virtual void Selected(Target target) {
         GameObject targetGO = Instantiate(target.gameObject, transform.position, Quaternion.identity, transform);
         Target currentTarget = targetGO.GetComponent<Target>();
