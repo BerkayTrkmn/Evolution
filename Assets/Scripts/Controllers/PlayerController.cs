@@ -48,7 +48,7 @@ public class PlayerController : MonoBehaviour {
                 if (singleSelectClickable != null) {
                     MoveSingleAnimal(singleSelectClickable, worldPoint);
                 } else {
-                    UIController.instance.CloseStatusWindow(clickable);
+                    UIController.Instance.CloseStatusWindow(clickable);
                 }
             }
         } else {
@@ -115,7 +115,7 @@ public class PlayerController : MonoBehaviour {
 
         clickable.Selected(target);
         singleSelectClickable=clickable;
-        UIController.instance.OpenStatusWindow(clickable);
+        UIController.Instance.OpenStatusWindow(clickable);
     }
     public void TargetDeselect(Clickable clickable) {
 
@@ -126,7 +126,7 @@ public class PlayerController : MonoBehaviour {
         if (clickable == null) return;
         clickable.Deselected();
         selectedClickables = null;
-        UIController.instance.CloseStatusWindow(clickable);
+        UIController.Instance.CloseStatusWindow(clickable);
     }
     public void AllTargetsCleared(List<Clickable> selectedClickables) {
 

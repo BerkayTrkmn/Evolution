@@ -23,6 +23,17 @@ public class Animal : Clickable , IMovable {
     }
 
 
+    public void AddAnimalToDictionary() {
+     DataController datacont = DataController.Instance;
+        if (datacont.animalListDict.ContainsKey(name)) {
+            datacont.animalListDict[name].Add(this);
+        } else {
+            datacont.animalListDict.Add(name, new List<Animal>());
+            datacont.animalListDict[name].Add(this);
+        }
+
+    }
+
     public void SetAnimal(float _population, float _feeding) {
         population = _population;
         feeding = _feeding;
@@ -84,14 +95,14 @@ public class Animal : Clickable , IMovable {
         //UpdatePopulation();
        // UpdateFeeding(tile);
         SetAnimal(_population, _feeding);
-        if(isSelected) UIController.instance.UpdateCLickableUI(name, population, feeding);
+        if(isSelected) UIController.Instance.UpdateCLickableUI(name, population, feeding);
 
     }
     public void UpdateAnimalStats(Tile currentTile) {
         UpdateFeeding(currentTile);
         UpdatePopulation();
         SetAnimal(population, feeding);
-        if (isSelected) UIController.instance.UpdateCLickableUI(name, population, feeding);
+        if (isSelected) UIController.Instance.UpdateCLickableUI(name, population, feeding);
         CheckAnimalPopulation();
     }
     public void UpdatePopulation() {
@@ -111,7 +122,7 @@ public class Animal : Clickable , IMovable {
     }
     public void AnimalDies() {
         Instantiate(deadPrefab.gameObject, transform.position,Quaternion.identity);
-        UIController.instance.CloseStatusWindow(this);
+        UIController.Instance.CloseStatusWindow(this);
         Destroy(gameObject);
         //TODO:Die
     }
@@ -121,7 +132,7 @@ public class Animal : Clickable , IMovable {
         Animal animalRight = Instantiate(animalPrefab.gameObject, transform.position, Quaternion.identity).GetComponent<Animal>();
         animalLeft.MoveTowardsToPoint(animalLeft.gameObject, animalLeft.transform.position + Vector3.left * 2);
         animalRight.MoveTowardsToPoint(animalRight.gameObject, animalRight.transform.position + Vector3.right * 2);
-        UIController.instance.CloseStatusWindow(this);
+        UIController.Instance.CloseStatusWindow(this);
         Destroy(gameObject);
        
     }

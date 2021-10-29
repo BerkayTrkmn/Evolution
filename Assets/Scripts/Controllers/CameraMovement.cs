@@ -37,9 +37,10 @@ public class CameraMovement : MonoBehaviour {
     }
 
     private void OnTouchMoved(TouchInput touch) {
-
-        transform.position -= new Vector3(touch.DeltaScreenPosition.x * speed, touch.DeltaScreenPosition.y * speed, 0f);
-        CamRestriction();
+        if (!UIController.Instance.IsPointerOverUI()) {
+            transform.position -= new Vector3(touch.DeltaScreenPosition.x * speed, touch.DeltaScreenPosition.y * speed, 0f);
+            CamRestriction();
+        }
     }
 
     private void OnTouchEnded(TouchInput touch) {

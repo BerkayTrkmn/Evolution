@@ -19,6 +19,6 @@ public class BonePile : Clickable {
         pileSprite.color = tmp;
         if (pileSprite.color.a <= 0.04f)
             Destroy(gameObject);
-        if (isSelected) UIController.instance.UpdateCLickableUI(name, 0, 0);
+        if (isSelected) UIController.Instance.UpdateCLickableUI(name, 0, 0);
     }
 }
